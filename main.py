@@ -1,0 +1,1 @@
+print("halo, ini proyek pertama saya di codespace")
