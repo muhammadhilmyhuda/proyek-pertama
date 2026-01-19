@@ -1,0 +1,8 @@
+bil = int(input("Masukkan bilangan:"))
+
+if bil % 2 == 0:
+    print(bil,"Adalah Genap")
+else: 
+    print(bil,"Adalah Gnjil")
+
+print("kode ini saya buat dari codespace")
